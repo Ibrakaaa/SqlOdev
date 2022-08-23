@@ -1,0 +1,2 @@
+# SqlOdev
+Patika Postgre Ödev
