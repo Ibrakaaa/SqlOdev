@@ -1,2 +1,3 @@
 # SqlOdev
-Patika Postgre Ödev
+### Patika Postgre Ödev
+www.patika.dev
